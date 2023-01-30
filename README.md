@@ -19,5 +19,14 @@ Comprendre la construction d'un URL à partir du tutoriel Axios.
 
 
 
+
+Pour pouvoir voir le site :
+
+
+Comme j'ai eu des problemes pour compiler je ne peux vous donner qu emes implementations du dossier backend et src 
+Je suis désolé.
+
+
+
 # PROJET-LOGICIEL
 # PROJET-LOGICIEL
